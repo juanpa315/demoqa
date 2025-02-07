@@ -1,5 +1,5 @@
-# DemoQA websit
-Automatizacón para formulario text box en [https://wordcounter.net/](https://demoqa.com/)
+# DemoQA website
+Automatizacón para el formulario text box en [https://wordcounter.net/](https://demoqa.com/)
 
 # Tecnologias.
 
