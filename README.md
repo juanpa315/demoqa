@@ -3,7 +3,7 @@ Automatizacón para el formulario text box en [https://wordcounter.net/](https:/
 
 # Tecnologias.
 
-Serenity Rest, Cucumber, Gradle, Screenplay, Java, gherkin
+Serenity, Cucumber, Gradle, Screenplay, Java, gherkin
 
 # Ejecución
 
